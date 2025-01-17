@@ -3,44 +3,45 @@ This is an in-depth analysis for performance of the members of Sweatbox Fitness 
 
 KEY INSIGHTS:
 
-Total Members: 973 members
- 
+Total Members: 
+* 973 members
+
 
 Types of Workouts:
-Strength: 258 members
-Cardio: 255 members
-Yoga: 239 members
-HIIT: 221 members
-Most common workout: Strength
+* Strength: 258 members
+* Cardio: 255 members
+* Yoga: 239 members
+* HIIT: 221 members
+* Most common workout: Strength
  
 
 Gender by Calories Burned:
-Male: 51.7383%
-Female: 48.2617%
+* Male: 51.7383%
+* Female: 48.2617%
  
 
 Workout Sessions Per Week:
-3 sessions: 368 members
-4 sessions: 306 members
-2 sessions: 197 members
-5 sessions: 102 members
-Most common: 3 sessions per week
+* 3 sessions: 368 members
+* 4 sessions: 306 members
+* 2 sessions: 197 members
+* 5 sessions: 102 members
+* Most common: 3 sessions per week
  
 
 Age Group of the Members:
-40-49 years: 245 members
-50-59 years: 243 members
-20-29 years: 223 members
-30-39 years: 209 members
-<20 years: 53 members
-Highest age group: 40-49 years
+* 40-49 years: 245 members
+* 50-59 years: 243 members
+* 20-29 years: 223 members
+* 30-39 years: 209 members
+* <20 years: 53 members
+* Highest age group: 40-49 years
  
 
 Members by Experience Level:
-Level 2: 406 members
-Level 1: 376 members
-Level 3: 191 members
-Top experience level: Level 2
+* Level 2: 406 members
+* Level 1: 376 members
+* Level 3: 191 members
+* Top experience level: Level 2
  
 
 Age Group by Calories Burned:
