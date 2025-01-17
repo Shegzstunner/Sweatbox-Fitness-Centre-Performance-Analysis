@@ -44,11 +44,11 @@ Top experience level: Level 2
  
 
 Age Group by Calories Burned:
-40-49 years: 221,265 calories
-20-29 years: 211,115 calories
-50-59 years: 202,111 calories
-30-39 years: 195,263 calories
-<20 years: 51,222 calories
+* 40-49 years: 221,265 calories
+* 20-29 years: 211,115 calories
+* 50-59 years: 202,111 calories
+* 30-39 years: 195,263 calories
+* <20 years: 51,222 calories
  
 
 RECOMMENDATIONS:
